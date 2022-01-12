@@ -95,7 +95,7 @@ const layerConfigurations = [
       { name: "Mouth" },
       { name: "Eyeswear" },
       { name: "Headwear" },
-      { name: "AlienHeadwear" },
+      { name: "AliengladiatorHeadwear" },
     ],
   },
 ];
